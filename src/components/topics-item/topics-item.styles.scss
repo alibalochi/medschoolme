@@ -1,0 +1,10 @@
+.topics-item {
+    padding: 30px 30px;
+    display: flex;
+    flex-direction: column;
+    .content {
+        img {
+            width: 300px;
+        }
+    }
+}

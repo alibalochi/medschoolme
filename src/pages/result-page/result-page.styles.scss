@@ -1,0 +1,31 @@
+.result-page {
+    min-height: 100vh;
+    display: flex;
+
+    
+
+    .left-third {
+        min-height: 100%;
+        width: 40%;
+        background: #E2E6FF;
+        padding: 20px 30px;
+
+        .result-title {
+            font-family: 'Montserrat', sans-serif;
+            font-size: 24px;
+        }
+
+        .result-text {
+            font-family: 'Lora', serif;
+        }
+    }
+    .right-two-third {
+        min-height: 100%;
+        width: 60%;
+        background: #FDF8F3;
+
+        .result-pic {
+            width: 100%;
+        }
+    }
+}

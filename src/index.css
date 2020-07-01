@@ -11,3 +11,20 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.custom-button {
+  background: #582CBA ;
+  font-family: 'Lora', serif;
+  color: white;
+  padding: 10px 20px;
+  font-size: 18px;
+  border-radius: 50px;
+  cursor: pointer;
+  box-shadow: 0 6px rgba(0, 0, 0, 0.7);
+}
+
+.custom-button:hover {
+  opacity: 80%;
+  box-shadow: 0 4px rgba(0, 0, 0, 0.7);
+  transform: translateY(2px);
+}
