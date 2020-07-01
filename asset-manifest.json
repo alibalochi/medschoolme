@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/medschoolme/static/css/main.d8bad536.chunk.css",
+    "main.js": "/medschoolme/static/js/main.a31543b6.chunk.js",
+    "main.js.map": "/medschoolme/static/js/main.a31543b6.chunk.js.map",
+    "runtime-main.js": "/medschoolme/static/js/runtime-main.82f2a6ef.js",
+    "runtime-main.js.map": "/medschoolme/static/js/runtime-main.82f2a6ef.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/medschoolme/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.0afa7d55.chunk.js": "/medschoolme/static/js/2.0afa7d55.chunk.js",
+    "static/js/2.0afa7d55.chunk.js.map": "/medschoolme/static/js/2.0afa7d55.chunk.js.map",
+    "index.html": "/medschoolme/index.html",
+    "precache-manifest.dcb4a0bd8c1318ff09ad543fb59416ab.js": "/medschoolme/precache-manifest.dcb4a0bd8c1318ff09ad543fb59416ab.js",
+    "service-worker.js": "/medschoolme/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/medschoolme/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.d8bad536.chunk.css.map": "/medschoolme/static/css/main.d8bad536.chunk.css.map",
+    "static/js/2.0afa7d55.chunk.js.LICENSE.txt": "/medschoolme/static/js/2.0afa7d55.chunk.js.LICENSE.txt",
+    "static/media/fail.1ea0a057.svg": "/medschoolme/static/media/fail.1ea0a057.svg",
+    "static/media/homepage.76bf6878.svg": "/medschoolme/static/media/homepage.76bf6878.svg",
+    "static/media/pass.340e2f81.svg": "/medschoolme/static/media/pass.340e2f81.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.82f2a6ef.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.0afa7d55.chunk.js",
+    "static/css/main.d8bad536.chunk.css",
+    "static/js/main.a31543b6.chunk.js"
+  ]
+}
