@@ -136,7 +136,7 @@ class QuizPage extends Component {
                         optionB={optionB}
                         optionC={optionC}
                         optionD={optionD}
-                        img={img}
+                        img={process.env.PUBLIC_URL+img}
                         handleOptionClick={this.handleOptionClick}
                     />
                 </div>

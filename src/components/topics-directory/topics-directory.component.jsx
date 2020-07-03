@@ -46,7 +46,7 @@ class TopicsDirectory extends Component {
         return (
             <div className="topics-directory">
                 {this.state.sections.map(({id, title, imageUrl}) => (
-                    <TopicsItem key={id} title={title} imageUrl={imageUrl}/>
+                    <TopicsItem key={id} title={title} imageUrl={process.env.PUBLIC_URL+imageUrl}/>
                 ))}
             </div>
         )
